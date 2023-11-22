@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ACHJO/1.0.0": {
+        "dependencies": {
+          "RetezecUtil": "1.0.0"
+        },
+        "runtime": {
+          "ACHJO.dll": {}
+        }
+      },
+      "RetezecUtil/1.0.0": {
+        "runtime": {
+          "RetezecUtil.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ACHJO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RetezecUtil/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

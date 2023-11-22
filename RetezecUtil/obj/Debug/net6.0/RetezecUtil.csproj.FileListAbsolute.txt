@@ -1,0 +1,11 @@
+G:\ACHJO\RetezecUtil\obj\Debug\net6.0\RetezecUtil.GeneratedMSBuildEditorConfig.editorconfig
+G:\ACHJO\RetezecUtil\obj\Debug\net6.0\RetezecUtil.AssemblyInfoInputs.cache
+G:\ACHJO\RetezecUtil\obj\Debug\net6.0\RetezecUtil.AssemblyInfo.cs
+G:\ACHJO\RetezecUtil\obj\Debug\net6.0\RetezecUtil.csproj.CoreCompileInputs.cache
+G:\ACHJO\RetezecUtil\bin\Debug\net6.0\RetezecUtil.deps.json
+G:\ACHJO\RetezecUtil\bin\Debug\net6.0\RetezecUtil.dll
+G:\ACHJO\RetezecUtil\bin\Debug\net6.0\RetezecUtil.pdb
+G:\ACHJO\RetezecUtil\obj\Debug\net6.0\RetezecUtil.dll
+G:\ACHJO\RetezecUtil\obj\Debug\net6.0\refint\RetezecUtil.dll
+G:\ACHJO\RetezecUtil\obj\Debug\net6.0\RetezecUtil.pdb
+G:\ACHJO\RetezecUtil\obj\Debug\net6.0\ref\RetezecUtil.dll
